@@ -1,0 +1,1 @@
+solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ iautsqLjvyHxvmuch2CKg6skaUFRaR99omvuGWdSRda ALL --authorized-withdrawer usb://ledger
