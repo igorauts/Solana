@@ -1,2 +1,2 @@
-solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ iautsqLjvyHxvmuch2CKg6skaUFRaR99omvuGWdSRda ALL --authorized-withdrawer usb://ledger
--k ledger?
+solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ iautsqLjvyHxvmuch2CKg6skaUFRaR99omvuGWdSRda 1.38 --authorized-withdrawer usb://ledger
+solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ BbZEyMzBEEZo8Fg8rmrNokpssxkLXWwC82zp3eNDxj89 ALL --authorized-withdrawer usb://ledger
