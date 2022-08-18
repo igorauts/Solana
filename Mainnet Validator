@@ -3,3 +3,4 @@ solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ
 sh -c "$(curl -sSfL https://release.solana.com/v1.10.32/install)"
 solana-keygen new -o /Users/igorauts/.config/solana/id.json
 PATH="/Users/igorauts/.local/share/solana/install/active_release/bin:$PATH"
+solana withdraw-from-vote-account -v igoraFEzpF1bEDGHwnnkxhQkNtRem2ycAX5q1hj8tqZ H87XP8K1XW9Fk9LEeufPg1vunuWUMHyNFAtc494hydcw ALL --authorized-withdrawer usb://ledger
